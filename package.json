@@ -1,0 +1,24 @@
+{
+  "name": "test_node_server",
+  "version": "1.0.0",
+  "description": "test built-in node server stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcprice12/testNodeServer.git"
+  },
+  "keywords": [
+    "http",
+    "server"
+  ],
+  "author": "John Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcprice12/testNodeServer/issues"
+  },
+  "homepage": "https://github.com/jcprice12/testNodeServer#readme"
+}
